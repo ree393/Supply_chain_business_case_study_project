@@ -59,8 +59,13 @@ Using the star schema, I solved **20 real-world business problems** with SQL, fo
 * **Power BI** – Dashboard Development & Visualization
 * **Git & GitHub** – Version Control and Project Documentation
 
+---
+## Business SQL Queries
 
+* ** Which regions experience the highest delivery delays?**
+ <img width="282" height="165" alt="image" src="https://github.com/user-attachments/assets/1d33689d-961f-4457-ac09-92e33e6597f1" />
 
+<img width="1162" height="661" alt="image" src="https://github.com/user-attachments/assets/0b3016a4-a988-406a-8898-75478039118c" />
 
 
 
