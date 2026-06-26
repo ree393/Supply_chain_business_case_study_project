@@ -9,4 +9,5 @@ Data Import: Import fact and dimension tables in Power BI desktop.
 Business Problems: Solving 20 specific business problems using SQL queries.
 Visualizations: Visualize insights through reporting 
 
-<img width="1725" height="692" alt="image" src="https://github.com/user-attachments/assets/d90aef8c-493e-4c29-b22e-91090b4f9904" /># 
+![Uploading supply_chain_star_schema_image.png…]()
+
