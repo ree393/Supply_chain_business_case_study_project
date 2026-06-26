@@ -1,4 +1,4 @@
-# 📦 Supply Chain Business Case Study
+# Supply Chain Business Case Study
 
 ## Overview
 
