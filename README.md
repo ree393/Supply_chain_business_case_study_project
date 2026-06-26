@@ -24,6 +24,8 @@ Using the star schema, I solved **20 real-world business problems** with SQL, fo
 * Designed and implemented a **Star Schema**.
 * Created dimension and fact tables.
 * Loaded cleaned data into the data warehouse while maintaining referential integrity.
+  <img width="722" height="797" alt="image" src="https://github.com/user-attachments/assets/49227dc3-188b-4103-9084-841ce2cd8c52" />
+
   <img width="1726" height="685" alt="image" src="https://github.com/user-attachments/assets/1133f346-4768-4e14-8c7e-5b005c9bf34c" />
 
 ### 3. SQL Analysis
